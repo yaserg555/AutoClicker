@@ -1,0 +1,18 @@
+C:\Users\admin\Documents\Visual Studio 2008\Projects\AutoClicker\AutoClicker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2008\Projects\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2008\Projects\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe
+C:\Users\admin\Documents\Visual Studio 2008\Projects\AutoClicker\AutoClicker\bin\Debug\AutoClicker.pdb
+C:\Users\admin\Documents\Visual Studio 2008\Projects\AutoClicker\AutoClicker\obj\Debug\AutoClicker.exe
+C:\Users\admin\Documents\Visual Studio 2008\Projects\AutoClicker\AutoClicker\obj\Debug\AutoClicker.pdb
+C:\Users\yaserg555\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.exe
+C:\Users\yaserg555\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.pdb
+C:\Users\yaserg555\Desktop\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe
+C:\Users\yaserg555\Desktop\AutoClicker\AutoClicker\bin\Debug\AutoClicker.pdb
+C:\Users\yaserg555\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csprojResolveAssemblyReference.cache
+C:\Users\yaserg555\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Properties.Resources.resources
+C:\Users\yaserg555\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.GenerateResource.Cache
+C:\Users\yaserg555\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.FormClicker.resources
+D:\Dropbox\GIT\AutoClicker\AutoClicker\obj\Debug\AutoClicker.exe
+D:\Dropbox\GIT\AutoClicker\AutoClicker\obj\Debug\AutoClicker.pdb
